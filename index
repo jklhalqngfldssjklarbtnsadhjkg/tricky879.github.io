@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>hello</title>
+  </head>
+
+  <style>
+    body { background:#a7E583; }
+    body { font-size: 40px; }
+    body { color: #F27E80; }
+  </style>
+
+  <body>
+    <p>llo world</p>
+    <ol>
+      <li>hehe</li>
+      <li>hehehw</li>
+    </ol>
+  </body>
+</html>
