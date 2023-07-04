@@ -12,10 +12,21 @@
   </style>
 
   <body>
-    <p>llo world</p>
+    <wp>llo world</p>
     <ol>
       <li>hehe</li>
       <li>hehehw</li>
     </ol>
+
+    <h1>Suggestion 1</h1>
+
+    <p><b>How to make money in 4 seconds</b></p>
+    <ol>
+      <li>buy an s&p500 stock</li>
+      <li>wait 4 seconds</li>
+	    <li>sell the stock</li>
+    </ol>
+    <p><i>Congrats, you’ve just made 0.000000115740741% of the stock’s current value!!!!!!</i></p>
+
   </body>
 </html>
